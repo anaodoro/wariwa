@@ -1,0 +1,22 @@
+body,html,blockquote,.postername,.postertrip,.navbar,.postblock,.rules,.footer,.userdelete,label{
+        font-family:Courier New!important;
+        font-size:16px!important;
+}
+ 
+input[type="submit"],input[type="button"],input[type="text"],input[type="password"],input[type="checkbox"],select,textarea{
+        background:#fff!important;
+        color:#000!important;
+        border:3px #000 solid!important;
+}
+ 
+a,a:hover,a:visited,body,html,.reply,.postertrip,.postername,.postblock,.pages,.navbar{
+        color:#000!important;
+}
+ 
+body,html,.reply,.postblock,.pages{
+        background:#fff!important;
+}
+ 
+.reply,.postblock{
+        border:3px #000 solid!important;
+}
